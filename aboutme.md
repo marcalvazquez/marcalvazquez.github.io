@@ -4,14 +4,14 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+My name is Marçal Vázquez-Valls, I am a Bioinformatician, master's student in Health Data Science, and R&D Intern at HIPRA.
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Inter-university Bachelor of Science in Bioinformatics (2021 - 2024)
+- Inter-university Master of Science (2024 - Present)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- Secondary School Intern at Autonomous University of Barcelona (2020 - 2021)
+- Research Intern at Institute of Evolutionary Biology (CSIC - Pompeu Fabra University) (2022 - 2024)
+- R&D Intern at HIPRA (2024 - Present)
