@@ -10,7 +10,7 @@ author: Marçal Vázquez-Valls
 
 navbar-links:
   About Me: "aboutme"
-  Summer School presentation: "summer_school_presentation"
+  # Example Page: "example"
 
 ################
 # --- Logo --- #
