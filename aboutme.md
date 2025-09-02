@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Marçal Vázquez-Valls
-subtitle: R&D Intern @ HIPRA
+subtitle: Visiting Student Researcher @ KAUST
 ---
 
-I am a Bioinformatician, master's student in Health Data Science, and R&D Intern at HIPRA.
+I am a bioinformatics graduate, master's student in Health Data Science, and Visiting Student Researcher at KAUST.
 
 ### Education
 
@@ -14,4 +14,5 @@ I am a Bioinformatician, master's student in Health Data Science, and R&D Intern
 ### Experience
 - Secondary School Intern at Autonomous University of Barcelona (2020 - 2021)
 - Research Intern at Institute of Evolutionary Biology (CSIC - Pompeu Fabra University) (2022 - 2024)
-- R&D Intern at HIPRA (2024 - Present)
+- R&D Intern at HIPRA (2024 - 2025)
+- Visiting Student Researcher at KAUST (2025 - Present)
