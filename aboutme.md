@@ -15,4 +15,4 @@ I am a bioinformatics graduate, master's student in Health Data Science, and Vis
 - Secondary School Intern at Autonomous University of Barcelona (2020 - 2021)
 - Research Intern at Institute of Evolutionary Biology (CSIC - Pompeu Fabra University) (2022 - 2024)
 - R&D Intern at HIPRA (2024 - 2025)
-- Visiting Student Researcher at KAUST (2025 - Present)
+- Visiting Student Researcher at King Abdullah University of Science and Technology (KAUST) (2025 - Present)
