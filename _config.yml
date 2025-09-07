@@ -37,8 +37,9 @@ avatar: "/images/marcal.jpg"
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "marcal.vazquez.valls@gmail.com"
-  # facebook: ferranad
+  google-scholar: https://scholar.google.com/citations?user=E6EGPEgAAAAJ&hl=es&oi=ao
   github: marcalvazquez
+  
   # twitter: ferranad
   # youtube: "@ferranad"
   # linkedin: 
@@ -56,7 +57,6 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  bluesky: yourname
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
