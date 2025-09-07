@@ -37,9 +37,8 @@ avatar: "/images/marcal.jpg"
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "marcal.vazquez.valls@gmail.com"
-  google-scholar: https://scholar.google.com/citations?user=E6EGPEgAAAAJ&hl=es&oi=ao
   github: marcalvazquez
-  
+  # google-scholar: https://scholar.google.com/citations?user=E6EGPEgAAAAJ&hl=es&oi=ao
   # twitter: ferranad
   # youtube: "@ferranad"
   # linkedin: 
