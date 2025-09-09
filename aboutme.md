@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Marçal Vázquez-Valls
-subtitle: Visiting Student Researcher @ KAUST
+subtitle: Visiting Student Researcher @ KAUST | MSc Student in Health Data Science | Bioinformatics Graduate
 ---
 
 I am a bioinformatics graduate, master's student in Health Data Science, and Visiting Student Researcher at KAUST.
