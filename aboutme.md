@@ -4,11 +4,6 @@ title: Marçal Vázquez-Valls
 subtitle: Visiting Student Researcher, King Abdullah University of Science and Technology (KAUST)
 ---
 
-### Education
-
-* Inter-university Master of Science (2024 - Present)
-* Inter-university Bachelor of Science in Bioinformatics (2021 - 2024)
-
 ### Experience
 * Visiting Student Researcher at King Abdullah University of Science and Technology (KAUST) (2025 - Present)
     * Designed and conducted research on the role of linker histones as epigenetic regulators of hematopoiesis, supervised by Prof. David Gomez-Cabrero.
@@ -22,3 +17,8 @@ subtitle: Visiting Student Researcher, King Abdullah University of Science and T
     * Designed and conducted research on comparative genomics and transcriptomics across diverse animal lineages, supervised by Dr. Rosa Fernández.
     * Applied large-scale bioinformatic pipelines, protein language models, and benchmarking of long-read transcriptome assembly strategies to investigate genome annotation quality, functional prediction of uncharacterized proteins, and isoform selection in non-model species.
     * Contributed to peer-reviewed publications including *MATEdb2, a collection of high-quality metazoan proteomes across the Animal Tree of Life to speed up phylogenomic studies* and *FANTASIA leverages language models to decode the functional dark proteome across the animal tree of life*.
+
+### Education
+
+* Inter-university Master of Science (2024 - Present)
+* Inter-university Bachelor of Science in Bioinformatics (2021 - 2024)
