@@ -22,3 +22,5 @@ subtitle: Visiting Student Researcher, King Abdullah University of Science and T
 
 * Inter-university Master of Science (2024 - Present)
 * Inter-university Bachelor of Science in Bioinformatics (2021 - 2024)
+    * The Bachelor's Degree in Bioinformatics (BDBI) is coordinated by the Pompeu Fabra University (UPF), with specific formation from the Faculty of Biology of the University of Barcelona (UB), from the Faculty of Informatics (FIB) of the Polytechnic University of Catalonia (UPC) and from the Autonomous University of Barcelona (UAB). Within this inter-university program conducted entirely in English, we acquire the expertise to employ statistical methodologies and computational models for problem-solving within the domains of Molecular Biology, Genetics, and Medical Research.
+    * Thesis title: *Comprehensive evaluation of clustering algorithms and assembly techniques applied to de novo transcriptome assembly for long-read sequencing data*.
